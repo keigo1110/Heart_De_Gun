@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy
 ## 実行方法
 
 ```bash
-python main.py
+python bakyu-n.py
 ```
 
 - カメラが起動し、手を映すと手のランドマークが表示されます。
